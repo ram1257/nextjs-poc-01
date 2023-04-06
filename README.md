@@ -1,16 +1,36 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Application Image
+![image](https://user-images.githubusercontent.com/129826933/230388080-72d1f642-a1ca-47b9-be91-3c91dbc41fa3.png)
+
+## This POC done for learing the following concepts.
+
+### General concepts
+1. Rendering User Interfaces => DOM(tree structure)
+2. Viewing DOM tree in chrome and firefox browsers 
+3. Basic code structure of next js
+4. Fundamental things of next js
+
+### Application components
+1. Setup and folder structure.
+2. Route ,Dynamic routes and links.
+3. Head component.
+4. navbar and CSS Modules.
+
+### Next Js fundamentals concepts
+1. API request
+2. server side rendering
+3. static site generation
+4. Cient side rendering
+
 ## Getting Started
 
 First, run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
 ```
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
